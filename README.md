@@ -16,7 +16,7 @@
 
 ### What can you use 'now'?
 
->  📦 c++ / python / JS (연습 중입니다.)
+>  📦 c++ (PS 용도) / python (데이터 분석 프로젝트 경험) / JS (연습 중입니다.)
 
 ### Why is your repo empty?
 
