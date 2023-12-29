@@ -1,30 +1,34 @@
 # Hello, world! 👋
 
-### Who am i? 
+### Who am i?
 
->  🔍 허상진입니다.
+> 🔍 허상진입니다.
 
-### Where am i? 
+### Where am i?
 
->  🌱 신한투자증권 프로 디지털 아카데미 3기 (2023.12.27 ~ 2024.06.27)
+> 🌱 신한투자증권 프로 디지털 아카데미 3기 (2023.12.27 ~ 2024.06.27)
 
-### Why i'm here? 
+### Why i'm here?
 
->  ⭐ 금융 개발자로 성장하고자 합니다.
+> ⭐ 금융 개발자로 성장하고자 합니다.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bookeers)](https://github.com/anuraghazra/github-readme-stats)
 
 # Technique
 
 ### What can you use 'now'?
 
->  📦 c++ (PS 용도) / python (데이터 분석 프로젝트 경험) / JS (연습 중입니다.)
+> 📦 c++ (PS 용도) / python (데이터 분석 프로젝트 경험) / JS (연습 중입니다.)
+
+
+### What I Acquired?
 
 > 📦 정보처리기사, SQLD, ADsP 자격증을 보유하고 있습니다.
+
 
 ### What will you study?
 
 > ✏️ React / Spring / ... + algorithm
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bookeers)](https://github.com/anuraghazra/github-readme-stats)
 
 # Mindset
 
