@@ -20,12 +20,18 @@
 
 >  📦 정보처리기사, SQLD, ADsP 자격증을 보유하고 있습니다.
 
-### Why is your repo empty?
-
->  💭 이번 과정에서 학습하는 내용과, 개인적인 추가 학습으로 채워나갈 예정입니다.
-
 ### What will you study?
 
 >  ✏️ React / Spring / ... + algorithm
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bookeers)](https://github.com/anuraghazra/github-readme-stats)
+
+# Mindset
+
+### Why is your repo empty?
+
+>  💭 이번 과정에서 학습하는 내용과, 개인적인 추가 학습으로 채워나갈 예정입니다.
+
+### Contact?
+
+> Slack DM
