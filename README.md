@@ -12,6 +12,8 @@
 
 > ⭐ 금융 개발자로 성장하고자 합니다.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bookeers)](https://github.com/anuraghazra/github-readme-stats)
+
 # Technique
 
 ### What can you use 'now'?
@@ -23,8 +25,6 @@
 ### What will you study?
 
 > ✏️ React / Spring / ... + algorithm
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bookeers)](https://github.com/anuraghazra/github-readme-stats)
 
 # Mindset
 
