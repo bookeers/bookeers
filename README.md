@@ -38,4 +38,4 @@
 
 ### Contact?
 
-> Slack DM
+> Slack DM으로 부탁드립니다!
