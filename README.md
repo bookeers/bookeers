@@ -20,9 +20,11 @@
 
 > 📦 c++ (PS 용도) / python (데이터 분석 프로젝트 경험) / JS (연습 중입니다.)
 
+
 ### What I Acquired?
 
 > 📦 정보처리기사, SQLD, ADsP 자격증을 보유하고 있습니다.
+
 
 ### What will you study?
 
