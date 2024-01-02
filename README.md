@@ -2,9 +2,8 @@
 
 ### Who am i?
 
-> 🔍 반갑습니다, 허상진입니다.
-* Final word:
-* Vision:
+> 🔍 반갑습니다, 허상진입니다. <br/>
+어제보다 오늘, 오늘보다 내일 더 성장하는 것이 목표입니다.
 
 ### Where am i?
 
@@ -12,8 +11,8 @@
 
 ### Why i'm here?
 
-* ⭐ 금융 IT 개발자로 성장하려는 노력의 시발점입니다.
-* ⭐ 협업 능력을 기르기 위해서입니다.
+* ⭐ 금융 IT 개발자로서의 역량을 기르기 위한 시발점입니다.
+* ⭐ 협업 경험을 쌓고, 이에 필요할 능력을 기르기 위해서입니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bookeers)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,8 +20,8 @@
 
 ### What can I use 'now'?
 
-* c++ (PS 용도) 
-* python (데이터 분석 프로젝트 경험) 
+* C++ (PS 용도) 
+* Python (데이터 분석 프로젝트 경험) 
 * Javascript (연습 중입니다)
 
 
@@ -44,6 +43,11 @@
 ### Why is repo empty?
 
 * 💭 이번 과정에서 학습하는 내용과, 개인적인 추가 학습으로 채워나갈 예정입니다.
+
+### How will you develop?
+
+* Final word:
+* Vision:
 
 ### Contact?
 
