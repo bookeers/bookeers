@@ -4,7 +4,7 @@
 
 > 🔍 허상진입니다.
 * Final word:
-* vision:
+* Vision:
 
 ### Where am i?
 
