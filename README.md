@@ -3,6 +3,8 @@
 ### Who am i?
 
 > 🔍 허상진입니다.
+* Final word:
+* vision:
 
 ### Where am i?
 
