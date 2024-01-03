@@ -20,11 +20,11 @@
 
 ### What can I use 'now'?
 
-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" style="vertical-align:text-top;"> PS 용도
+- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" style="vertical-align:center;"> PS 용도
 
-- <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="vertical-align:text-top;"> (데이터 분석 프로젝트 경험)
+- <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="vertical-align:center;"> (데이터 분석 프로젝트 경험)
 
-- <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" style="vertical-align:text-top;"> (연습 중입니다)
+- <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" style="vertical-align:center;"> (연습 중입니다)
 
 ### What I've Acquired?
 
