@@ -18,10 +18,6 @@
 
 # Mindset
 
-### Why is repo empty?
-
-- 💭 이번 과정에서 학습하는 내용과, 개인적인 추가 학습으로 채워나갈 예정입니다.
-
 ### How will I develop?
 
 - Final word: irreplaceable
