@@ -45,7 +45,9 @@
 
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="vertical-align:middle;"> (데이터 분석 프로젝트 경험)
 
-<img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" style="vertical-align:middle;"> (연습 중입니다)
+<img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" style="vertical-align:middle;"> 
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="vertical-align:text-top;">
 
 ### What I've Acquired?
 
@@ -53,12 +55,9 @@
 
 ### What will I study?
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="vertical-align:text-top;">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="vertical-align:text-top;">
 
 Algorithm  
-
-Domain knowledge  
 
 And so on..
 
