@@ -47,6 +47,8 @@
 
 <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" style="vertical-align:middle;"> 
 
+<img src="https://shields.io/badge/Node.JS-539E43?logo=Node.js&logoColor=000&style=flat-square" style="vertical-align:middle;"> 
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="vertical-align:text-top;">
 
 ### What I've Acquired?
